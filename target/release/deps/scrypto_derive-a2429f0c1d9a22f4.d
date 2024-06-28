@@ -1,0 +1,9 @@
+C:\Users\bartf\radixdlt-scrypto\lbp-balancer\target\release\deps\scrypto_derive-a2429f0c1d9a22f4.dll: C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\lib.rs C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\ast.rs C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\blueprint.rs C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\non_fungible_data.rs C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\utils.rs
+
+C:\Users\bartf\radixdlt-scrypto\lbp-balancer\target\release\deps\scrypto_derive-a2429f0c1d9a22f4.d: C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\lib.rs C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\ast.rs C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\blueprint.rs C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\non_fungible_data.rs C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\utils.rs
+
+C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\lib.rs:
+C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\ast.rs:
+C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\blueprint.rs:
+C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\non_fungible_data.rs:
+C:\Users\bartf\.cargo\git\checkouts\radixdlt-scrypto-1833d92590086ce0\07327fc\scrypto-derive\src\utils.rs:
