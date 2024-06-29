@@ -118,10 +118,12 @@ mod stabilis_liquidity_pool {
         }
 
         pub fn get_resource1_price(&self) -> Decimal {
+            self.set_weights();
             let reserves = self.vault_reserves();
-            let first_amount: Decimal = *reserves.first().map(|(_, v)| v).unwrap();
-            let last_amount: Decimal = *reserves.last().map(|(_, v)| v).unwrap();
-            last_amount / first_amount
+            let resource1_reserve = reserves.get(&self.resource1).unwrap();
+            let resource2_reserve = reserves.get(&self.resource2).unwrap();
+            let weighted_price = (resource2_reserve * self.weight2) / (resource1_reserve * self.weight1);
+            weighted_price
         }
 
         fn set_weights(&mut self) {
